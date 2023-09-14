@@ -1,3 +1,5 @@
 # Paraplouis
 
-Happy to learn code every day. Here you can see some part of my project and my work... and some other things that I tried!
+Happy to be learning to code every day. Here you can see some of my projects and work... and other things I try ..
+
+... and sometimes nothing at all!
